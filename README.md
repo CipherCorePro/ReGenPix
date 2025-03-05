@@ -1,4 +1,6 @@
 # Neural Network Image Generator
+![logo](https://github.com/user-attachments/assets/b516dc0c-a501-497f-aa48-ae0618016ad7)
+
 Demo:
 https://huggingface.co/spaces/Rkruemmel/Neural_Network_Image_Generator
 
